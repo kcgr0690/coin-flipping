@@ -1,1 +1,1 @@
-# coin-flipping blah blah blah
+# coin-flipping
